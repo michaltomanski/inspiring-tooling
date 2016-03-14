@@ -1,6 +1,6 @@
 # inspiringsolutions-tooling
 
-[![Build status at https://travis-ci.org/michaltomanski/inspiring-tooling](https://travis-ci.org/org/repo.svg)](https://travis-ci.org/michaltomanski/inspiring-tooling)
+[![Build status at https://travis-ci.org/michaltomanski/inspiring-tooling](https://travis-ci.org/michaltomanski/inspiring-tooling.svg)](https://travis-ci.org/michaltomanski/inspiring-tooling)
 
 
 ## What is this
